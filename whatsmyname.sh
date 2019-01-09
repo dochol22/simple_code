@@ -1,4 +1,4 @@
 #!/bin/bash
 
-name="John"
+name="John Jenkins"
 echo My name is $name
